@@ -1,0 +1,17 @@
+body {
+	background-color: beige;
+}
+div.jumbotron {
+	background-image: url('img/wall.jpg');
+}
+div.panel-image {
+	background-image: url('img/bg.jpg');
+	background-attachment: fixed;
+	background-size: cover;
+	background-position: center;
+	min-height: 400px;
+}
+
+footer {
+	margin-bottom: 10px;
+}
